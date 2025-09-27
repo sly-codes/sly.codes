@@ -259,7 +259,7 @@ body {
 .education .education-title,
 .tools-title,
 .cert-title,
-.proj-title {
+.proj-title , .github-title{
   margin-bottom: 20px;
   min-width: 200px;
   font-weight: 700;
@@ -267,7 +267,7 @@ body {
 .education .education-title span,
 .tools-title span,
 .cert-title span,
-.proj-title span {
+.proj-title span, .github-title span {
   border-bottom: 2px solid var(--text-color);
 }
 
@@ -527,4 +527,28 @@ body {
   .experience-item h2 {
     font-size: 1.4rem;
   }
+}
+
+
+
+
+/*  */
+.github-stats {
+  margin-top: 80px;
+}
+
+.github-title i {
+  font-size: 2rem;
+  color: var(--a-color);
+}
+
+.github-graph img {
+  width: 100%;
+  max-width: 900px;
+  border: 2px solid var(--border-color);
+  border-radius: 12px;
+  padding: 8px;
+  background: var(--bg-color);
+  transition: transform 0.3s ease-in-out;
+  opacity: 0.8;
 }
