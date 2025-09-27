@@ -176,7 +176,7 @@ body {
   align-items: center;
   background: var(--bg-color);
   gap: 10px;
-  padding-top: 50px;
+  padding-top: 70px;
 }
 
 .hero-img {
@@ -250,15 +250,24 @@ body {
 
 /* ======================== ABOUT ========================= */
 
-.education , .tools, .certification, .projects  {
+.education,
+.tools,
+.certification,
+.projects {
   padding-top: 40px;
 }
-.education .education-title, .tools-title, .cert-title, .proj-title {
+.education .education-title,
+.tools-title,
+.cert-title,
+.proj-title {
   margin-bottom: 20px;
   min-width: 200px;
   font-weight: 700;
 }
-.education .education-title span, .tools-title span, .cert-title span, .proj-title span {
+.education .education-title span,
+.tools-title span,
+.cert-title span,
+.proj-title span {
   border-bottom: 2px solid var(--text-color);
 }
 
@@ -277,7 +286,6 @@ body {
   padding-top: 20px;
   font-size: 1.3rem;
 }
-
 
 /* ========== Certification Section ========== */
 
@@ -325,7 +333,6 @@ body {
   opacity: 0.8;
 }
 
-
 /* ========== Tools Section ========== */
 
 .tools-subtitle {
@@ -371,7 +378,6 @@ body {
   font-size: 0.95rem;
   font-weight: 600;
 }
-
 
 /* ========== Projects Section ========== */
 
@@ -445,9 +451,6 @@ body {
   color: var(--a-hover-color);
   border-color: var(--text-color);
 }
-
-
-
 
 /* ========== Experience Section ========== */
 .experience {
