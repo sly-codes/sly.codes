@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://sly-codes.vercel.app/</loc>
+    <lastmod>2025-09-27</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sly-codes.vercel.app/#about</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sly-codes.vercel.app/#education</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sly-codes.vercel.app/#certification</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sly-codes.vercel.app/#tools</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sly-codes.vercel.app/#projects</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sly-codes.vercel.app/#github</loc>
+    <priority>0.6</priority>
+  </url>
+</urlset>
+

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sly-codes.vercel.app/sitemap.xml
+
