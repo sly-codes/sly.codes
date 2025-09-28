@@ -12,7 +12,7 @@ My clean portfolio that i made with **html/css/js** to showcase my skills, proje
 - **Contact** – Easy ways to reach me
 
 
-4. La suite à faire 🚀
+4. La suite à faire 
 
 Acheter ton domaine (ex: sly.codes).
 
