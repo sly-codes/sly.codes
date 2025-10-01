@@ -108,7 +108,6 @@
 
 /* ===================== TOOLS ========================= */
 @media (min-width: 768px) {
-  
   .tool-card i {
     font-size: 3rem;
   }
@@ -117,7 +116,6 @@
 
 /* ===================== PROJECTS ========================= */
 @media (min-width: 768px) {
-
   .proj-card img {
     height: 220px;
   }
