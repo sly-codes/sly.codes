@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://sly.codes/$1",
-      "permanent": true
-    }
-  ]
-}
