@@ -84,6 +84,6 @@ document.addEventListener('click', (e) => {
 const currentYear = new Date().getFullYear();
 const footer = document.getElementById('footer');
 const p = footer.querySelector('p');
-p.innerHTML = `&copy; ${currentYear} Issa Koné | Also known as sly.codes`;
+p.innerHTML = `&copy; ${currentYear} Issa Koné - sly.codes`;
 
 console.log(currentYear);
